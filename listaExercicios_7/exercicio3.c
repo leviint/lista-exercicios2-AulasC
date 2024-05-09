@@ -1,4 +1,4 @@
-//2- Estruturas de decisão e Operadores lógicos Escreva um programa que leia um
+//3- Estruturas de decisão e Operadores lógicos Escreva um programa que leia um
 //número e informe se ele é positivo, negativo ou zero
 
 #include <stdio.h>
